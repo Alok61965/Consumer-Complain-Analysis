@@ -30,7 +30,13 @@ The **Consumer Complaint Analysis** project leverages Excel to transform raw con
 - **Problem-Solving:** Identifying patterns and providing insights to resolve consumer complaints effectively.  
 
 
-## 📷 **Screenshots**  
+## 📷 **Screenshots** 
+
+![Screenshot (3)](https://github.com/user-attachments/assets/8448a366-9c82-4f9d-b2f7-4573e6837ba3)
+![Screenshot (2)](https://github.com/user-attachments/assets/20282b1f-9ee3-4005-abb3-1a5e1e34fa9a)
+![Screenshot (1)](https://github.com/user-attachments/assets/18d597ef-77b3-448c-8566-1a5f641f025d)
+
+
 
 
 ## 🛠️ **Tools Used**
